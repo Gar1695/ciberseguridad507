@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "haxor" # "air", "aqua", "contrast", "dark", "dirt", 
 
 # Site Settings
 locale                   : "en-ES"
-title                    : "Ciberseguridad507 Site"
+title                    : "Ciberseguridad507"
 title_separator          : "-"
 name                     : "Gilberto Ramos"
 description              : "Apasionado por la ciberseguridad y el Hacking Ético"
-url                      : "https://BeniBeastt.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://github.com/Gar1695" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "slemire/slemire.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 logo                     : "/assets/images/logo.png"
@@ -105,7 +105,7 @@ author:
   avatar           : "/assets/images/avatar.jpg"
   bio              : "Apasionado por la ciberseguridad y el Hacking Ético"
   location         : "Panamá"
-  email            : "albertobeni05@gmail.com"
+  email            : "gilbertr474@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -114,7 +114,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "BeniBeastt"
+  github           : "https://github.com/Gar1695"
   gitlab           :
   google_plus      :
   keybase          : 
@@ -130,7 +130,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://www.youtube.com/@BeniBeastt"
+  youtube          : ""
 
 
 # Reading Files
