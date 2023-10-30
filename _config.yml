@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "haxor" # "air", "aqua", "contrast", "dark", "dirt", 
 
 # Site Settings
 locale                   : "en-ES"
-title                    : "BeniBeastt Site"
+title                    : "Ciberseguridad507 Site"
 title_separator          : "-"
-name                     : "BeniBeastt"
+name                     : "Gilberto Ramos"
 description              : "Apasionado por la ciberseguridad y el Hacking Ético"
 url                      : "https://BeniBeastt.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -101,10 +101,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "BeniBeastt"
+  name             : "Gilberto Ramos"
   avatar           : "/assets/images/avatar.jpg"
   bio              : "Apasionado por la ciberseguridad y el Hacking Ético"
-  location         : "España"
+  location         : "Panamá"
   email            : "albertobeni05@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
