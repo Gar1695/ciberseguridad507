@@ -1,71 +1,30 @@
-# 🌐 Ciberseguridad 507
+# 🌐 **Bienvenido a mi sitio sobre Ciberseguridad**
 
-<div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Lock_and_security_icon.svg" alt="Ciberseguridad Logo" height="150" />
-</div>
+Hola, soy **Gilberto Ramos**, un apasionado por la **ciberseguridad** y el **hacking ético**. Este sitio está dedicado a compartir mi conocimiento y experiencias en el fascinante mundo de la seguridad digital, explorando temas clave como **phishing**, **ataques DDoS**, **ransomware**, y más.
 
----
+A través de artículos prácticos y educativos, busco ayudar a todos, desde principiantes hasta expertos, a comprender las amenazas más comunes en el ciberespacio y cómo protegerse de ellas.
 
-## 📖 **Descripción**
+En este sitio, podrás encontrar artículos detallados sobre diversas amenazas cibernéticas, la importancia de la **encriptación**, y las mejores prácticas de **seguridad digital**. Si eres una persona interesada en aprender sobre cómo proteger tu información y sistemas, este es el lugar para ti.
 
-Bienvenido a **Ciberseguridad 507**, un sitio dedicado a compartir conocimientos, herramientas y mejores prácticas en el fascinante mundo de la **ciberseguridad**. Aquí encontrarás recursos educativos y guías que te ayudarán a entender y mejorar la seguridad en entornos digitales.
+## Artículos Recientes:
 
-**Accede al sitio aquí**: [Ciberseguridad 507](https://gar1695.github.io/ciberseguridad507/)
+- **Phishing: La Ingeniería Social en Estado Puro**  
+  En este artículo, exploramos el **phishing**, qué es, cómo funciona y qué medidas tomar para evitar caer en esta amenaza.
+  
+- **Ataques DDoS: Una Gran Amenaza para las Empresas**  
+  Hablamos sobre los **ataques DDoS** y cómo este tipo de ataque puede afectar gravemente a las empresas y sus servicios en línea.
+  
+- **Ransomware: La Amenaza que Secuestra tus Datos**  
+  En este artículo, abordamos el tema del **ransomware**, cómo protegerse y las mejores prácticas para mantener tus datos a salvo.
 
----
-
-## 📋 **Contenido del Sitio**
-
-- **Introducción a la Ciberseguridad**: Conceptos básicos y su importancia.
-- **Honeypots**: Qué son y cómo usarlos para análisis de ataques.
-- **SIEM**: Gestión de eventos e información de seguridad.
-- **Buenas prácticas de seguridad**: Consejos para proteger tus sistemas.
-- **Herramientas recomendadas**: Software esencial para mejorar tu entorno de seguridad.
+- **Protegiendo el Mundo Conectado**  
+  Analizamos la importancia de la **ciberseguridad** en la era digital actual y los pasos esenciales para proteger tu información y sistemas en un mundo cada vez más interconectado.
 
 ---
 
-## 🌟 **Características del Sitio**
+Si te apasiona la **ciberseguridad**, te invito a explorar mis artículos y aprender más sobre cómo mantenernos seguros en el mundo digital.
 
-- **Diseño Responsivo**: Optimizado para todos los dispositivos.
-- **Interfaz Intuitiva**: Fácil de navegar y encontrar recursos.
-- **Enfocado en la Educación**: Material dirigido tanto a principiantes como a expertos.
+🌐 **Contacta conmigo**:  
+📧 [Tu Email](gilbertr474@gmail.com)  
+🔗 [GitHub](https://github.com/Gar1695)
 
----
-
-## 🚀 **Cómo usar este Proyecto**
-
-1. **Accede al sitio web**:  
-   [https://gar1695.github.io/ciberseguridad507/](https://gar1695.github.io/ciberseguridad507/)
-
-2. **Explora las secciones**: Navega por el contenido educativo, revisa las herramientas recomendadas y consulta las guías prácticas.
-
-3. **Contribuye**: Si tienes sugerencias o quieres mejorar el sitio, ¡puedes abrir un *pull request* o contactarme!
-
----
-
-## 🛠 **Tecnologías Utilizadas**
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
-</div>
-
----
-
-## 💡 **Contribuciones**
-
-Este proyecto está abierto a contribuciones. Si quieres colaborar:
-1. Haz un fork del repositorio.
-2. Realiza tus cambios en una rama separada.
-3. Abre un *pull request* con tus mejoras.
-
----
-
-## 📬 **Contacto**
-
-Si tienes preguntas o sugerencias, no dudes en contactarme:  
-📧 Email: [tuemail@example.com](mailto:tuemail@example.com)  
-🌐 LinkedIn: [Tu Perfil](https://linkedin.com/in/tu-perfil)  
