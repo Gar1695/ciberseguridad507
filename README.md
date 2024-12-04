@@ -1,12 +1,13 @@
 # 🌐 **Bienvenido a mi sitio sobre Ciberseguridad**
 
+**Accede al sitio aquí**: [Ciberseguridad 507](https://gar1695.github.io/ciberseguridad507/)
 Hola, soy **Gilberto Ramos**, un apasionado por la **ciberseguridad** y el **hacking ético**. Este sitio está dedicado a compartir mi conocimiento y experiencias en el fascinante mundo de la seguridad digital, explorando temas clave como **phishing**, **ataques DDoS**, **ransomware**, y más.
 
 A través de artículos prácticos y educativos, busco ayudar a todos, desde principiantes hasta expertos, a comprender las amenazas más comunes en el ciberespacio y cómo protegerse de ellas.
 
 En este sitio, podrás encontrar artículos detallados sobre diversas amenazas cibernéticas, la importancia de la **encriptación**, y las mejores prácticas de **seguridad digital**. Si eres una persona interesada en aprender sobre cómo proteger tu información y sistemas, este es el lugar para ti.
 
-## Artículos Recientes:
+## Artículos Relevantes:
 
 - **Phishing: La Ingeniería Social en Estado Puro**  
   En este artículo, exploramos el **phishing**, qué es, cómo funciona y qué medidas tomar para evitar caer en esta amenaza.
@@ -23,6 +24,7 @@ En este sitio, podrás encontrar artículos detallados sobre diversas amenazas c
 ---
 
 Si te apasiona la **ciberseguridad**, te invito a explorar mis artículos y aprender más sobre cómo mantenernos seguros en el mundo digital.
+🌐 **Visita mi sitio aquí**: [https://gar1695.github.io/ciberseguridad507/](https://gar1695.github.io/ciberseguridad507/)
 
 🌐 **Contacta conmigo**:  
 📧 [Tu Email](gilbertr474@gmail.com)  
